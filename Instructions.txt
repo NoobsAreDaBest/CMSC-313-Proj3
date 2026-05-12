@@ -1,0 +1,5 @@
+Make sure the binary.out file is included in the same directory and named the same
+
+To compile:
+gcc proj3.c -o proj3
+./proj3
